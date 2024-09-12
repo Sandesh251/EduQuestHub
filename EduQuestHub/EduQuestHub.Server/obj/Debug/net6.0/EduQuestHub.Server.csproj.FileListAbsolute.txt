@@ -1,0 +1,260 @@
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\spa.proxy.json
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.json
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.exe
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.deps.json
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.runtimeconfig.json
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.pdb
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.AssemblyReference.cache
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\spa.proxy.json
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfoInputs.cache
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfo.cs
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.CoreCompileInputs.cache
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.EduQuestHub.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.EduQuestHub.Server.props
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduQuestHub.Server.props
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduQuestHub.Server.props
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\scopedcss\bundle\EduQuestHub.Server.styles.css
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuest.AF237CE9.Up2Date
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.dll
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\refint\EduQuestHub.Server.dll
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.pdb
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.genruntimeconfig.cache
+D:\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\ref\EduQuestHub.Server.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Humanizer.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\MySqlConnector.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\spa.proxy.json
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.json
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.exe
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.deps.json
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.runtimeconfig.json
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.pdb
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Humanizer.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\MySqlConnector.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\now\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.AssemblyReference.cache
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\spa.proxy.json
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfoInputs.cache
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfo.cs
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.CoreCompileInputs.cache
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.EduQuestHub.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.EduQuestHub.Server.props
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduQuestHub.Server.props
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduQuestHub.Server.props
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\scopedcss\bundle\EduQuestHub.Server.styles.css
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuest.AF237CE9.Up2Date
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.dll
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\refint\EduQuestHub.Server.dll
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.pdb
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.genruntimeconfig.cache
+D:\now\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\ref\EduQuestHub.Server.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\spa.proxy.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.exe
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.deps.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.runtimeconfig.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.pdb
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Humanizer.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\MySqlConnector.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.AssemblyReference.cache
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\spa.proxy.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfoInputs.cache
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfo.cs
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.CoreCompileInputs.cache
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.EduQuestHub.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.EduQuestHub.Server.props
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduQuestHub.Server.props
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduQuestHub.Server.props
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\scopedcss\bundle\EduQuestHub.Server.styles.css
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuest.AF237CE9.Up2Date
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\refint\EduQuestHub.Server.dll
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.pdb
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.genruntimeconfig.cache
+D:\sangita cloud\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\ref\EduQuestHub.Server.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\spa.proxy.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.exe
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.deps.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.runtimeconfig.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.pdb
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Humanizer.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\MySqlConnector.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.AssemblyReference.cache
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\spa.proxy.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfoInputs.cache
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfo.cs
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.CoreCompileInputs.cache
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.EduQuestHub.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.EduQuestHub.Server.props
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduQuestHub.Server.props
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduQuestHub.Server.props
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\scopedcss\bundle\EduQuestHub.Server.styles.css
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuest.AF237CE9.Up2Date
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\refint\EduQuestHub.Server.dll
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.pdb
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.genruntimeconfig.cache
+D:\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\ref\EduQuestHub.Server.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\appsettings.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\spa.proxy.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.exe
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.deps.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.runtimeconfig.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\EduQuestHub.Server.pdb
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.AssemblyReference.cache
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfoInputs.cache
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.AssemblyInfo.cs
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.csproj.CoreCompileInputs.cache
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.EduQuestHub.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.EduQuestHub.Server.props
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduQuestHub.Server.props
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduQuestHub.Server.props
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\scopedcss\bundle\EduQuestHub.Server.styles.css
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuest.AF237CE9.Up2Date
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\refint\EduQuestHub.Server.dll
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.pdb
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\EduQuestHub.Server.genruntimeconfig.cache
+C:\Users\sande\Downloads\cloud code\cloud code\EduQuestHub\EduQuestHub\EduQuestHub.Server\obj\Debug\net6.0\ref\EduQuestHub.Server.dll

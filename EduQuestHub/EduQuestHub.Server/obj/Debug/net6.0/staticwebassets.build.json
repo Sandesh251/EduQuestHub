@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AzTaxGwlROo+u5WFIMOZXIi0vg1OTMH7+eRu8NPMhh0=",
+  "Source": "EduQuestHub.Server",
+  "BasePath": "_content/EduQuestHub.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\sande\\Downloads\\cloud code\\cloud code\\EduQuestHub\\EduQuestHub\\eduquesthub.client\\eduquesthub.client.esproj",
+      "Version": 2,
+      "Source": "eduquesthub.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

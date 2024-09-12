@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\sande\\Downloads\\cloud code\\cloud code\\EduQuestHub\\EduQuestHub\\EduQuestHub.Server\\..\\eduquesthub.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

@@ -1,0 +1,48 @@
+<div class="main-container">
+  <div *ngIf="!courseCreateForm" class="my-5 col-6 offset-3">
+    <h3 class="my-3">Create New Course</h3>
+    <div class="form-control text-start my-4">
+      <label class="my-2">Title</label>
+      <input class="form-control my-2" type="text" [(ngModel)]="course.title" name="title" required>
+
+      <label class="my-2">Description:</label>
+      <textarea class="form-control" [(ngModel)]="course.description" name="description" required></textarea>
+<div class="my-5 text-center">
+  <button class="btn btn-primary " (click)="createCourse()">Create Course
+    <div style="color: white;" class="spinner-border spinner-border-sm ml-1" role="status" *ngIf="loading">
+      <span class="sr-only"></span>
+    </div>
+  </button>
+</div>
+    </div>
+  </div>
+  <div *ngIf="courseCreateForm" class="container mt-5">
+    <div class="form-group">
+      <label for="type" >Type
+
+        <select class="form-control" (change)="onChange($event)">
+          <option value="" disabled selected>Select your option</option>
+          <option *ngFor="let type of contentTypes" [value]="type">{{ type }}</option>
+        </select>
+      </label>
+      <!-- <label>Option name
+        <select>
+            <option value="" disabled selected>Select your option</option>
+            <option value="hurr">Durr</option>
+        </select>
+        </label> -->
+    </div>
+
+    <div class="form-group">
+      <label for="content">Upload Files For The Course: </label>
+      <input type="file" (change)="onFileSelected($event)" multiple class="form-control-file py-5 my-5">
+    </div>
+
+    <button (click)="uploadContent()" class="btn btn-primary">Upload Content
+      <div style="color: white;" class="spinner-border spinner-border-sm ml-1" role="status" *ngIf="loading">
+        <span class="sr-only"></span>
+      </div>
+    </button>
+  </div>
+
+</div>

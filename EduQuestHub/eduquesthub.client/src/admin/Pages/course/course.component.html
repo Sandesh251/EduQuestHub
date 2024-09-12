@@ -1,0 +1,65 @@
+<div class="main-container">
+  <div class="row"></div>
+  <h2>Course List</h2>
+  <button *ngIf="authService.role == 'Admin'" (click)="navigate()" class="btn btn-primary">Create Course</button>
+  <div class="row text-start col-2 ms-2"></div>
+  <hr>
+
+  <!-- Table view for Admin -->
+  <div *ngIf="authService.role == 'Admin'">
+    <div *ngIf="!loading" class="row col-8 offset-2">
+      <div class="table table-responsive">
+        <table class="table table-responsive">
+          <th>Course ID</th>
+          <th>Course Title</th>
+          <th>Course Description</th>
+          <!-- <th>Delete</th> -->
+          <tbody>
+            <tr *ngFor="let item of courseList">
+              <td>{{item.courseId}}</td>
+              <td>{{item.title}}</td>
+              <td>{{item.description}}</td>
+              <td>
+            <button class="btn btn-success mx-2" (click)="navigateContent(item.courseId)">View Content</button>
+              </td>
+              <td>
+                <button (click)="deleteCourse(item.courseId)" class="btn btn-danger">Delete</button>
+              </td>
+              <td>
+                <button (click)="navigateFeed(item.courseId)" class="btn btn-primary">View Feedbacks</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div style="color: black;" class="spinner-border spinner-border-sm ml-1" role="status" *ngIf="loading">
+      <span class="sr-only"></span>
+    </div>
+    <div *ngIf="loading">Loading, Please Wait...</div>
+  </div>
+
+  <!-- Card view for Customer -->
+  <div *ngIf="authService.role == 'Customer'">
+    <div class="row">
+      <div *ngIf="!loading" class="col-12">
+        <div class="row">
+          <div class="col-4 mb-4" *ngFor="let item of courseList">
+            <div class="card col">
+              <div class="card-body">
+                <h5 class="card-title">{{item.title}}</h5>
+                <p class="card-text">{{item.description}}</p>
+                <button (click)="enroll(item.courseId)" class="btn btn-success mx-2">Enroll</button>
+                <button (click)="navigateFeed(item.courseId)" class="btn btn-primary">View Feedbacks</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="color: black;" class="spinner-border spinner-border-sm ml-1" role="status" *ngIf="loading">
+      <span class="sr-only"></span>
+    </div>
+    <div *ngIf="loading">Loading, Please Wait...</div>
+  </div>
+</div>

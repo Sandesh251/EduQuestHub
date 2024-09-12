@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="#">EduGateway</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <div class="flex">
+
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <ng-container  *ngIf="authService.loggedIn">
+
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/admin/course-list">Courses</a>
+          </li>
+          <li class="nav-item" *ngIf="authService.role == 'Admin'">
+            <a class="nav-link" routerLink="/admin/users">Maange Users</a>
+          </li>
+          <li class="nav-item" *ngIf="authService.role == 'Customer'">
+            <a class="nav-link" routerLink="/admin/mycourses">My Courses</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/admin/forums">Forums</a>
+          </li>
+        </ng-container>
+      </ul>
+      <div>
+        <ng-container *ngIf="!authService.loggedIn">
+
+          <button class="btn btn-success" (click)="navigateLog()" >
+            Login
+          </button>
+          <button class="btn btn-primary m-2"  (click)="navigateReg()">
+            Register
+          </button>
+        </ng-container>
+        <ng-container  *ngIf="authService.loggedIn">
+          <button (click)="nav()" *ngIf="authService.role != 'Admin'" class="btn btn-primary m-2">
+            Enroll Now
+          </button>
+          <button class="btn btn-danger m-2" (click)="logout()">
+            Logout
+          </button>
+        </ng-container>
+
+      </div>
+    </div>
+  </div>
+</nav>

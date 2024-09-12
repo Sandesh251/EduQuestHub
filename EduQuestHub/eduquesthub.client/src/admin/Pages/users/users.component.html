@@ -1,0 +1,19 @@
+<div class="main-container">
+  <div class="container">
+    <h2>Users</h2>
+
+    <div *ngIf="loading" class="text-muted">Loading...</div>
+
+    <div *ngIf="!loading">
+      <div *ngFor="let user of users" class="card mb-3">
+        <div class="card-body">
+          <h5 class="card-title">{{ user.fullName }}</h5>
+          <p class="card-text">Email: {{ user.email }}</p>
+          <p class="card-text">Phone Number: {{ user.phoneNumber }}</p>
+          <button class="btn btn-danger" (click)="deleteUser(user.id)" [disabled]="loading">Delete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

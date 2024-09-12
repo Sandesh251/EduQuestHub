@@ -1,0 +1,14 @@
+.main-container{
+  margin-top: 8rem !important;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mid{
+ border-right: 2px solid blue;
+ border-left: 2px solid blue;
+
+}

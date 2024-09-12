@@ -1,0 +1,27 @@
+<div class="main-container">
+  <h2>My Courses</h2>
+  <hr>
+
+  <!-- Card view for Customer -->
+  <div class="row col-8 offset-2">
+    <div *ngIf="!loading" class="row">
+      <div class="col-md-4 mb-4" *ngFor="let item of courseList; let i = index">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{item.title}}</h5>
+            <p class="card-text">{{item.description}}</p>
+            <button class="btn btn-success mx-2" (click)="navigateContent(item.courseId)">View Content</button>
+            <button (click)="navigateFeed(item.courseId)" class="btn btn-primary">Provide Feedback</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="color: black;" class="spinner-border spinner-border-sm ml-1" role="status" *ngIf="loading">
+    <span class="sr-only"></span>
+
+  </div>
+  <div *ngIf="loading">
+    Loading, Please Wait...
+  </div>
+</div>
